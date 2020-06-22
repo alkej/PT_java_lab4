@@ -1,0 +1,7 @@
+pl/edu/pg/controllers/ShopController.class
+pl/edu/pg/model/Order.class
+pl/edu/pg/services/exceptions/NegativeProductsAmountException.class
+pl/edu/pg/services/exceptions/OutOfStockException.class
+pl/edu/pg/FilmshopApplication.class
+pl/edu/pg/services/EntityService.class
+pl/edu/pg/services/OrdersService.class

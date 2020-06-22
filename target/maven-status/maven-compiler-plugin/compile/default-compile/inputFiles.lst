@@ -1,0 +1,14 @@
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/exceptions/EmptyOrderException.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/controllers/ShopController.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/FilmsService.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/FilmshopApplication.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/model/Film.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/exceptions/ALotOfProductsException.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/exceptions/OutOfStockException.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/EntityService.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/OrdersService.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/exceptions/LowTotalAmountException.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/controllers/FilmsController.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/services/exceptions/NegativeProductsAmountException.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/model/OrderedParts.java
+/Users/akeisel/IntelliJProjects/PT_lab5/src/main/java/pl/edu/pg/model/Order.java
